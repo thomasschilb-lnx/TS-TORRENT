@@ -1,0 +1,8 @@
+==============
+ ARIA2 CLIENT
+==============
+
+Aria2:
+
+https://sourceforge.net/projects/aria2/files/stable/
+https://aria2.github.io/

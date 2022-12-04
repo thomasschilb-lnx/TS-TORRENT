@@ -1,0 +1,8 @@
+==========================
+ ARIA2 TRACKERLIST : TEXT
+==========================
+
+https://trackerslist.com/all_aria2.txt
+https://trackerslist.com/best_aria2.txt
+https://github.com/XIU2/TrackersListCollection/blob/master/all_aria2.txt
+https://github.com/XIU2/TrackersListCollection/blob/master/best_aria2.txt

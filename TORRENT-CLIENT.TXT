@@ -1,0 +1,18 @@
+==========================
+ TORRENT CLIENT : API/WEB
+==========================
+
+BitTorrent Web: https://www.bittorrent.com/
+PutIO: https://app.swaggerhub.com/apis-docs/putio/putio/
+
+
+======================
+ TORRENT CLIENT : A-Z
+======================
+
+Deluge: https://deluge-torrent.org/
+qBittorrent: https://github.com/c0re100/qBittorrent-Enhanced-Edition
+Tixati: https://tixati.com/download
+Transmission: https://transmissionbt.com/
+WebTorrent Desktop: https://webtorrent.io/desktop/
+Xdown: https://xdown.org/

@@ -1,0 +1,34 @@
+===========================
+ TORRENT TRACKERLIST : WEB
+===========================
+
+https://newtrackon.com/list
+https://www.torrenttrackerlist.com/torrent-tracker-list/
+https://tinytorrent.net/best-torrent-tracker-list-updated/
+https://trackerslist.com
+https://newtrackon.com/list
+https://torrents.io/tracker-list/
+https://tinytorrent.net/best-torrent-tracker-list-updated/
+https://torrenttrackerss.com/torrent-tracker-list/
+http://www.torrenttrackerlist.com/torrent-tracker-list
+https://github.com/DeSireFire/animeTrackerList
+
+
+============================
+ TORRENT TRACKERLIST : TEXT
+============================
+
+https://raw.githubusercontent.com/pexcn/daily/gh-pages/trackerlist/trackerlist.txt
+https://raw.githubusercontent.com/pexcn/daily/gh-pages/trackerlist/trackerlist-best.txt
+https://github.com/1265578519/OpenTracker/blob/master/tracker.txt
+http://github.itzmx.com/1265578519/OpenTracker/master/tracker.txt
+https://trackerslist.com/all.txt
+https://trackerslist.com/best.txt
+
+
+===========================
+ TORRENT TRACKERLIST : GIT
+===========================
+
+https://github.com/ngosang/trackerslist.git
+https://github.com/XIU2/TrackersListCollection.git
